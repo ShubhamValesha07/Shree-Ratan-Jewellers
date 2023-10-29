@@ -18,29 +18,22 @@ function Home2() {
             </h1>
             <p className="home-about-body" data-aos="fade-up">
               <br />
-              We're <i className="primary-header">
-                Experienced, Specialised, and Passionate
+              🌟 Exciting news alert! ✨
+              <i className="primary-header">
+              🔔 Shree Ratan Jewellers 🔔  
               </i>{" "}
-              who loves solving problems and building Websites.
+              is back with a ravishing makeover! 💎💍✨.
               <br />
               <br />I am passionate about{" "}
-              <i className="primary-header">technologies</i> and love to learn
-              new things.
+              <i className="primary-header">💫 Step into our newly renovated shop </i> and experience the epitome of elegance and style. 💎✨
               <br />
-              <br />I am more interested in building new
+              <br />Get mesmerised by our exquisite collection of jewellery that will leave you in absolute awe. 💍💖
               <i>
-                <i className="primary-header">Web Technologies and Products.</i>
+                <i className="primary-header">📅 Mark your calendars! Join us on [Date] at [Shop Address] to indulge in a world of timeless beauty and luxury. 💫🌟</i>
               </i>
               <br />
-              <br />I always apply my experience in developing products with{" "}
-              <i className="primary-header">Node.js</i> and Modern Javascript
-              Library and Framework like
-              <i className="primary-header"> React.js.</i>
-              <br />
-              <br />
-              Currently expanding my portfolio by building more{" "}
-              <i className="primary-header">projects </i>projects that I can add
-              here.
+              <br />✨ Don't miss this golden opportunity to witness boundless glamour! {" "}
+              <i className="primary-header"> See you there! ✨💎💫 </i> 
             </p>
           </Col>
           <Col md={4} className="myAvtar">
